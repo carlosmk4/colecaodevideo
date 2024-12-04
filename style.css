@@ -8,11 +8,12 @@ section{
 
 background-color: darkgrey;
 padding-top: 60px;
+padding-bottom: 60px;
 display: flex;
 justify-content: center;
 }
 
-.margentilo{
+.MargenTitulo{
 margin:6%;
 }
 
