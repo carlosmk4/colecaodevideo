@@ -1,0 +1,31 @@
+body{
+
+background-color: black;
+color: whitesmoke;
+}
+
+section{
+
+background-color: darkgrey;
+padding-top: 60px;
+display: flex;
+justify-content: center;
+}
+
+.margentilo{
+margin:6%;
+}
+
+head{
+margin: 6%;
+font-size: 20%;
+text-align: center;
+}
+
+header{
+text-align: center;
+}
+
+
+
+
